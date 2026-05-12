@@ -1,8 +1,4 @@
 # Grade Management System
-# Made by: [Your Name]
-# Class: BCA 2nd Year, Sec B
-# Subject: Python Programming
-# Unit 5 Project - Tkinter + Turtle
 
 import tkinter as tk
 from tkinter import messagebox, font
